@@ -18,7 +18,7 @@ public class myAppTester {
 	  System.out.println();
 
 	  // add a line below to call your myTestMethod from here  then remove the block comment symbols  
-
+	  myTestMethod(3274,1);
 	}
 	
 	//This is a method to reverse the number by recursion
@@ -34,14 +34,14 @@ public class myAppTester {
 	   }
 
 
-	   /* 
-	       add your test method in this space then remove the block comment symbols
-	       public static void myTestMethod(...){
+	//CSIS 3275 Gurmukh - 300299185, myTestMethod will simply add two numbers and display result
+	public static void myTestMethod(int firstInt, int secondInt){
+            int total = 0;
+            total = (firstInt + secondInt);
+            System.out.println(total);
 
-            
-
-		   }
+	}
 	 
-	   */
+	   
 
 }

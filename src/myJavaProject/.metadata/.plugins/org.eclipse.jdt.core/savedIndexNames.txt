@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\gurmu\Desktop\MyWorkSpace\myGitHubPractice\src\myJavaProject\.metadata\.plugins\org.eclipse.jdt.core
+1573066521.index
